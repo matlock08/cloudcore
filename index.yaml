@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  cloudcore:
+  - apiVersion: v1
+    appVersion: 1.9.1
+    created: "2022-06-30T16:24:23.1952147-05:00"
+    description: The KubeEdge cloudcore component.
+    digest: 39749c2b4c35203fdd05edecd632f2ce358fdcad9cae5712af3cd2f45b85e371
+    name: cloudcore
+    sources:
+    - https://github.com/kubeedge/kubeedge
+    urls:
+    - https://matlock08.github.io/cloudcore/cloudcore-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-06-30T16:24:23.194113-05:00"
